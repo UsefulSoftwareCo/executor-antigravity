@@ -25,11 +25,14 @@ agy plugin install https://github.com/UsefulSoftwareCo/executor-antigravity
 
 ## Sign in
 
-The plugin uses OAuth, so there is nothing to paste. The first time the
-Executor MCP server connects, Antigravity opens Executor in your browser. Sign
-in, choose your organization and approve access. To sign in again later, open
-**Customizations**, then **Installed**, and choose **Authenticate** next to
-Executor.
+The plugin signs in with OAuth; you never handle an API key.
+
+- **CLI:** run `/mcp`, select `executor_cloud` and choose **Authenticate**.
+- **App:** open **Customizations**, then **Installed**, and choose
+  **Authenticate** next to Executor's MCP server.
+
+Executor opens in your browser. Sign in, choose your organization and approve
+access, then paste the code Antigravity shows back into Antigravity.
 
 ## Use
 
