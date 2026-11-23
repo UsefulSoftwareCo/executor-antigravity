@@ -6,22 +6,15 @@ Antigravity's agent access to all of them through one MCP server.
 
 ## Install
 
-### Marketplace
-
-Open **Customizations**, then **Marketplace**, search for **Executor** and
-choose **Add**. In the CLI:
-
-```bash
-agy plugin install executor
-```
-
-### From GitHub
-
-Until the Marketplace listing is live, install it straight from this repository:
+From GitHub:
 
 ```bash
 agy plugin install https://github.com/UsefulSoftwareCo/executor-antigravity
 ```
+
+Once Executor is listed in the Antigravity Marketplace, you can also open
+**Customizations**, then **Marketplace**, search for **Executor** and choose
+**Add**, or run `agy plugin install executor`.
 
 ## Sign in
 
