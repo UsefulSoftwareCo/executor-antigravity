@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "cloud": {
+      "serverUrl": "https://mcp.executor.sh/mcp"
+    }
+  }
+}

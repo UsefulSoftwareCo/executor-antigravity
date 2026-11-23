@@ -1,0 +1,22 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "executor",
+  "displayName": "Executor",
+  "version": "0.1.0",
+  "description": "Connect once, use everywhere: Executor gives your agent the APIs, MCP servers and accounts in your workspace, with approvals built in.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Show me the apps and tools available in my Executor workspace",
+    "Use Executor to list my open GitHub issues",
+    "Check my Executor connection"
+  ],
+  "author": {
+    "name": "Useful Software Co.",
+    "email": "rhys@executor.sh",
+    "url": "https://executor.sh"
+  },
+  "homepage": "https://executor.sh",
+  "repository": "https://github.com/UsefulSoftwareCo/executor-antigravity",
+  "license": "MIT",
+  "keywords": ["executor", "mcp", "integrations", "api", "tools", "oauth"]
+}
